@@ -2,7 +2,7 @@
 
 I am a **Senior Full-Stack Engineer** with over 7+ years of professional experience building high-performance web applications, robust APIs, and scalable digital solutions. I specialize in the Laravel/PHP ecosystem and modern JavaScript.
 
-I focus on writing clean, maintainable, and testable code that solves real-world business problems—whether it’s optimizing database queries, building complex third-party integrations, or boosting system speed.
+I focus on writing clean, maintainable, and testable code that solves real-world business problems whether it's optimizing database queries, building complex third-party integrations, or boosting system speed.
 
 ---
 
